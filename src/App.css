@@ -19,9 +19,39 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.icon-header {
+  text-align: center;
 }
+
+.libraFreeMarketIcon {
+  width: 30%;
+  margin: 30px;
+}
+
+.create-user {
+  text-align: center;
+}
+
+.title-text {
+  margin: 0 auto; 
+  width: 70%;
+  border-bottom: 1px solid grey;
+}
+
+.localData {
+  padding-top: 20px; 
+  padding-bottom: 20px;
+  margin: 0 auto; 
+  width: 70%;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+
+.mnemonic {
+  margin: 0 auto; 
+  width: 100%;
+}
+
 
 @keyframes App-logo-spin {
   from {
